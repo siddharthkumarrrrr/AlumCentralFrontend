@@ -3,3 +3,4 @@
 
 - [Siddharth Kumar](https://github.com/siddharthkumarrrrr)
 - [Arya Samik](https://github.com/AryaSamik)
+- [Aditya Raj](https://github.com/adraj48)
